@@ -1,7 +1,7 @@
 ﻿# Sentient Negotiator AI-Powered Bargaining System
 
 ## Overview
-The **Sentient Negotiator** is an advanced, AI-powered chatbot that engages in dynamic negotiations with users. Leveraging cutting-edge technologies like the **BlenderBot** (from the Transformers library) and **Sentiment Analysis** (via VADER), this system simulates realistic bargaining behavior, adjusting its offers based on user sentiment and negotiation history.
+The **Sentient Negotiator** is an advanced, AI-powered chatbot that engages in negotiations with users. Leveraging cutting-edge technologies like the **BlenderBot** (from the Transformers library) and **Sentiment Analysis** (via VADER), this system simulates realistic bargaining behavior, adjusting its offers based on user sentiment and negotiation history.
 
 ## Features
 - **Natural Language Understanding**: Uses **BlenderBot** for generating human-like dialogue.
